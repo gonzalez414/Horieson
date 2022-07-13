@@ -7,7 +7,7 @@
 body {
   background-color: #d9dcd6;
 }
-
+/* hero Section */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -41,7 +41,8 @@ body {
   display: inline-block;
   margin-left: 25px;
 }
-
+/* End Hero Section */
+/* Benefit Section */
 a {
   color: #ffffff;
   text-decoration: none;
@@ -120,7 +121,8 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
-
+/* End benefit Section */
+/* Footer Section */
 .footer {
   padding: 30px;
   clear: both;
@@ -132,3 +134,4 @@ p {
 .footer h4 {
   font-size: 20px;
 }
+/* End Footer Section */
